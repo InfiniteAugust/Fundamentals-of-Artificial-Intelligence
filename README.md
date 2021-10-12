@@ -1,2 +1,2 @@
 # Fundamentals-of-Artificial-Intelligence
-A simple neural network that recognise hand-written numbers.
+A simple neural network that recognises hand-written numbers.
